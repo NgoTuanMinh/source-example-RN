@@ -1,0 +1,744 @@
+{
+    "docs": [
+        {
+            "_id": "5e308c2533e7100016293c77",
+            "items": [
+                {
+                    "name": "Desperados",
+                    "price": 1,
+                    "taxPct": 21,
+                    "sku": "00000025"
+                }
+            ],
+            "assetCode": "EVTX",
+            "sourceWallet": "GCBP34YR6LBVA4WAHVSTNYCXA6KPVARAZMEOLKOBPCB6VHUC3TVBX6P5",
+            "destinationWallet": "GAY7C6AV24NBEXWH4PXUQMUNPTGMMVMF6QDQ5PSKUIFBWQCPPMMFHC6G",
+            "amountToken": 1,
+            "txId": "326fee80f99e9df385dc4e2f9611f86594588dd73dcfe651e7d117533d5d7e14",
+            "location": {
+                "coordinates": [
+                    -122.5,
+                    37.7
+                ],
+                "type": "Point"
+            },
+            "createdAt": "2020-01-28T19:31:49.111Z",
+            "updatedAt": "2020-01-28T19:31:49.111Z",
+            "__v": 0,
+            "transaction": {
+                "_id": "5e308c2533e7100016293c78",
+                "stellarErrors": [],
+                "signers": [],
+                "signers_delete": [],
+                "signers_add": [],
+                "relatedTransactions": [],
+                "txId": "326fee80f99e9df385dc4e2f9611f86594588dd73dcfe651e7d117533d5d7e14",
+                "envelopeXdr": "AAAAAIL98xHyw1BywD1lNuBXB5T6giDLCOWpwXiD6p6C3OobAAAAZAANr4gAAAAmAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAMfF4FdcaEl7H4+9IMo18zMZVhfQHDr5KogobQE97GFMAAAABRVZUWAAAAABxkkVKG2jHhRxz3wTZYvLdI3YT3/WWAXbNmnLRD7caBQAAAAAAmJaAAAAAAAAAAAEjic7eAAAAQJ796gUPdysPmlSxeep/RBVgYqOXU6OAFLl0fekxIZ/ARO56oepD343W9MRQ8PkXCfjQO7kqHB40saVhkhIewgI=",
+                "fee": 0.001,
+                "dateInit": "2020-01-28T19:31:49.122Z",
+                "status": "SUBMITTED",
+                "__v": 0,
+                "dateComplete": "2020-01-28T19:31:53.604Z"
+            },
+            "id": "5e308c2533e7100016293c77",
+            "_links": {
+                "self": {
+                    "href": "/v1/transaction/326fee80f99e9df385dc4e2f9611f86594588dd73dcfe651e7d117533d5d7e14"
+                },
+                "products": [
+                    {
+                        "href": "/v1/products/00000025",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/00000025.png"
+                        }
+                    }
+                ],
+                "walletImage": {
+                    "href": "https://cdn.eventx.network/products/Wearable.png"
+                },
+                "customerImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar2.png"
+                },
+                "cashierImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar.png"
+                }
+            }
+        },
+        {
+            "_id": "5e308be033e7100016293c6f",
+            "items": [
+                {
+                    "name": "Heineken",
+                    "price": 1,
+                    "taxPct": 21,
+                    "sku": "00000023"
+                },
+                {
+                    "name": "Red wine",
+                    "price": 3,
+                    "taxPct": 0,
+                    "sku": "20000104"
+                }
+            ],
+            "assetCode": "EVTX",
+            "sourceWallet": "GCBP34YR6LBVA4WAHVSTNYCXA6KPVARAZMEOLKOBPCB6VHUC3TVBX6P5",
+            "destinationWallet": "GAY7C6AV24NBEXWH4PXUQMUNPTGMMVMF6QDQ5PSKUIFBWQCPPMMFHC6G",
+            "amountToken": 5,
+            "txId": "c1806826547c54cb8351dec8cd66d3541aa7e19afec39798da4c496b890096f7",
+            "location": {
+                "coordinates": [
+                    -122.5,
+                    37.7
+                ],
+                "type": "Point"
+            },
+            "createdAt": "2020-01-28T19:30:40.716Z",
+            "updatedAt": "2020-01-28T19:30:40.716Z",
+            "__v": 0,
+            "transaction": {
+                "_id": "5e308be033e7100016293c70",
+                "stellarErrors": [],
+                "signers": [],
+                "signers_delete": [],
+                "signers_add": [],
+                "relatedTransactions": [],
+                "txId": "c1806826547c54cb8351dec8cd66d3541aa7e19afec39798da4c496b890096f7",
+                "envelopeXdr": "AAAAAIL98xHyw1BywD1lNuBXB5T6giDLCOWpwXiD6p6C3OobAAAAZAANr4gAAAAlAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAMfF4FdcaEl7H4+9IMo18zMZVhfQHDr5KogobQE97GFMAAAABRVZUWAAAAABxkkVKG2jHhRxz3wTZYvLdI3YT3/WWAXbNmnLRD7caBQAAAAAC+vCAAAAAAAAAAAEjic7eAAAAQAS190w04rz9hCUhv8ij9HNwomR9X+tgIh2W/I/KzcUf07jEXv00dBP1Ue7S/Zjv5fg3FafPS5qAagxBqVygygc=",
+                "fee": 0.001,
+                "dateInit": "2020-01-28T19:30:40.727Z",
+                "status": "SUBMITTED",
+                "__v": 0,
+                "dateComplete": "2020-01-28T19:30:46.606Z"
+            },
+            "id": "5e308be033e7100016293c6f",
+            "_links": {
+                "self": {
+                    "href": "/v1/transaction/c1806826547c54cb8351dec8cd66d3541aa7e19afec39798da4c496b890096f7"
+                },
+                "products": [
+                    {
+                        "href": "/v1/products/00000023",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/00000023.png"
+                        }
+                    },
+                    {
+                        "href": "/v1/products/20000104",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/20000104.png"
+                        }
+                    }
+                ],
+                "walletImage": {
+                    "href": "https://cdn.eventx.network/products/Wearable.png"
+                },
+                "customerImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar2.png"
+                },
+                "cashierImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar.png"
+                }
+            }
+        },
+        {
+            "_id": "5e308ad933e7100016293c69",
+            "items": [
+                {
+                    "name": "Tokens",
+                    "price": 15,
+                    "taxPct": 0,
+                    "sku": "00000102"
+                }
+            ],
+            "assetCode": "EVTX",
+            "sourceWallet": "GAVX3SR7WVHFNJIAQXOYHOMUNPGHR656OUSTBRDSV5BINZXFTDYSAHTJ",
+            "destinationWallet": "GCBP34YR6LBVA4WAHVSTNYCXA6KPVARAZMEOLKOBPCB6VHUC3TVBX6P5",
+            "amountToken": 15,
+            "txId": "af02312d8060b8b92918aff21916fe313f7e32197f347ce75045a3dd5fcc3b60",
+            "location": {
+                "coordinates": [
+                    -122.5,
+                    37.7
+                ],
+                "type": "Point"
+            },
+            "createdAt": "2020-01-28T19:26:17.022Z",
+            "updatedAt": "2020-01-28T19:26:17.022Z",
+            "__v": 0,
+            "transaction": {
+                "_id": "5e308ad933e7100016293c6a",
+                "stellarErrors": [],
+                "signers": [],
+                "signers_delete": [],
+                "signers_add": [],
+                "relatedTransactions": [],
+                "txId": "af02312d8060b8b92918aff21916fe313f7e32197f347ce75045a3dd5fcc3b60",
+                "envelopeXdr": "AAAAACt9yj+1TlalAIXdg7mUa8x4+751JTDEcq9ChublmPEgAAAAZAAS92EAAAApAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAgv3zEfLDUHLAPWU24FcHlPqCIMsI5anBeIPqnoLc6hsAAAABRVZUWAAAAABxkkVKG2jHhRxz3wTZYvLdI3YT3/WWAXbNmnLRD7caBQAAAAAI8NGAAAAAAAAAAAEjic7eAAAAQNx1YUTKx1sbUXxPMvUZ5I8Fiik8Co4Hz3qo2Tn/2elH/pdwWH6QCpu4Hz32Uk9DhEnHNn2XlJwuTKLHFUYh0Ag=",
+                "fee": 0.001,
+                "dateInit": "2020-01-28T19:26:17.036Z",
+                "status": "SUBMITTED",
+                "__v": 0,
+                "dateComplete": "2020-01-28T19:26:21.605Z"
+            },
+            "id": "5e308ad933e7100016293c69",
+            "_links": {
+                "self": {
+                    "href": "/v1/transaction/af02312d8060b8b92918aff21916fe313f7e32197f347ce75045a3dd5fcc3b60"
+                },
+                "products": [
+                    {
+                        "href": "/v1/products/00000102",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/00000102.png"
+                        }
+                    }
+                ],
+                "walletImage": {
+                    "href": "https://cdn.eventx.network/products/Wearable.png"
+                },
+                "customerImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar2.png"
+                },
+                "cashierImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar.png"
+                }
+            }
+        },
+        {
+            "_id": "5e3084bf33e7100016293c63",
+            "items": [
+                {
+                    "name": "Tokens",
+                    "price": 15,
+                    "taxPct": 0,
+                    "sku": "00000102"
+                }
+            ],
+            "assetCode": "EVTX",
+            "sourceWallet": "GAVX3SR7WVHFNJIAQXOYHOMUNPGHR656OUSTBRDSV5BINZXFTDYSAHTJ",
+            "destinationWallet": "GCBP34YR6LBVA4WAHVSTNYCXA6KPVARAZMEOLKOBPCB6VHUC3TVBX6P5",
+            "amountToken": 15,
+            "txId": "d5512e7677cf328fbc9787894ff23068e01deea74e9239c2d0882282a64b5bb1",
+            "location": {
+                "coordinates": [
+                    -122.5,
+                    37.7
+                ],
+                "type": "Point"
+            },
+            "createdAt": "2020-01-28T19:00:15.619Z",
+            "updatedAt": "2020-01-28T19:00:15.619Z",
+            "__v": 0,
+            "transaction": {
+                "_id": "5e3084bf33e7100016293c64",
+                "stellarErrors": [],
+                "signers": [],
+                "signers_delete": [],
+                "signers_add": [],
+                "relatedTransactions": [],
+                "txId": "d5512e7677cf328fbc9787894ff23068e01deea74e9239c2d0882282a64b5bb1",
+                "envelopeXdr": "AAAAACt9yj+1TlalAIXdg7mUa8x4+751JTDEcq9ChublmPEgAAAAZAAS92EAAAAoAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAgv3zEfLDUHLAPWU24FcHlPqCIMsI5anBeIPqnoLc6hsAAAABRVZUWAAAAABxkkVKG2jHhRxz3wTZYvLdI3YT3/WWAXbNmnLRD7caBQAAAAAI8NGAAAAAAAAAAAEjic7eAAAAQNfo1s9so15J1cIswzhtVAtKTKOeqxK8hgfuOrbGbiX+ochTyCxmVVJEa8UBYf7D8m0daDitwVXbBHNoxctE5A8=",
+                "fee": 0.001,
+                "dateInit": "2020-01-28T19:00:15.631Z",
+                "status": "SUBMITTED",
+                "__v": 0,
+                "dateComplete": "2020-01-28T19:00:18.051Z"
+            },
+            "id": "5e3084bf33e7100016293c63",
+            "_links": {
+                "self": {
+                    "href": "/v1/transaction/d5512e7677cf328fbc9787894ff23068e01deea74e9239c2d0882282a64b5bb1"
+                },
+                "products": [
+                    {
+                        "href": "/v1/products/00000102",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/00000102.png"
+                        }
+                    }
+                ],
+                "walletImage": {
+                    "href": "https://cdn.eventx.network/products/Wearable.png"
+                },
+                "customerImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar2.png"
+                },
+                "cashierImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar.png"
+                }
+            }
+        },
+        {
+            "_id": "5e30807333e7100016293c5b",
+            "items": [
+                {
+                    "name": "Tokens",
+                    "price": 5,
+                    "taxPct": 0,
+                    "sku": "00000100"
+                },
+                {
+                    "name": "Tokens",
+                    "price": 9,
+                    "taxPct": 0,
+                    "sku": "00000101"
+                }
+            ],
+            "assetCode": "EVTX",
+            "sourceWallet": "GAVX3SR7WVHFNJIAQXOYHOMUNPGHR656OUSTBRDSV5BINZXFTDYSAHTJ",
+            "destinationWallet": "GCBP34YR6LBVA4WAHVSTNYCXA6KPVARAZMEOLKOBPCB6VHUC3TVBX6P5",
+            "amountToken": 24,
+            "txId": "d71dac6770eeff86384d0484d3068f43df4214dcc0447ceccdaa54c74152c2a7",
+            "location": {
+                "coordinates": [
+                    -122.5,
+                    37.7
+                ],
+                "type": "Point"
+            },
+            "createdAt": "2020-01-28T18:41:55.394Z",
+            "updatedAt": "2020-01-28T18:41:55.394Z",
+            "__v": 0,
+            "transaction": {
+                "_id": "5e30807333e7100016293c5c",
+                "stellarErrors": [],
+                "signers": [],
+                "signers_delete": [],
+                "signers_add": [],
+                "relatedTransactions": [],
+                "txId": "d71dac6770eeff86384d0484d3068f43df4214dcc0447ceccdaa54c74152c2a7",
+                "envelopeXdr": "AAAAACt9yj+1TlalAIXdg7mUa8x4+751JTDEcq9ChublmPEgAAAAZAAS92EAAAAnAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAgv3zEfLDUHLAPWU24FcHlPqCIMsI5anBeIPqnoLc6hsAAAABRVZUWAAAAABxkkVKG2jHhRxz3wTZYvLdI3YT3/WWAXbNmnLRD7caBQAAAAAOThwAAAAAAAAAAAEjic7eAAAAQBATypOmvR1qQK1M8HkJTHhnv1ECxi/eWOKX8WEzkTSQWzpnPQEcv7sS9EPSY3AGdCoGG9LnFK81EYaLjsuaJwc=",
+                "fee": 0.001,
+                "dateInit": "2020-01-28T18:41:55.410Z",
+                "status": "SUBMITTED",
+                "__v": 0,
+                "dateComplete": "2020-01-28T18:42:01.622Z"
+            },
+            "id": "5e30807333e7100016293c5b",
+            "_links": {
+                "self": {
+                    "href": "/v1/transaction/d71dac6770eeff86384d0484d3068f43df4214dcc0447ceccdaa54c74152c2a7"
+                },
+                "products": [
+                    {
+                        "href": "/v1/products/00000100",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/00000100.png"
+                        }
+                    },
+                    {
+                        "href": "/v1/products/00000101",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/00000101.png"
+                        }
+                    }
+                ],
+                "walletImage": {
+                    "href": "https://cdn.eventx.network/products/Wearable.png"
+                },
+                "customerImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar2.png"
+                },
+                "cashierImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar.png"
+                }
+            }
+        },
+        {
+            "_id": "5e2f69ae33e7100016293c36",
+            "items": [
+                {
+                    "name": "Heineken",
+                    "price": 1,
+                    "taxPct": 21,
+                    "sku": "00000023"
+                }
+            ],
+            "assetCode": "EVTX",
+            "sourceWallet": "GCBP34YR6LBVA4WAHVSTNYCXA6KPVARAZMEOLKOBPCB6VHUC3TVBX6P5",
+            "destinationWallet": "GAY7C6AV24NBEXWH4PXUQMUNPTGMMVMF6QDQ5PSKUIFBWQCPPMMFHC6G",
+            "amountToken": 2,
+            "txId": "00f72b22b5d66506ef2f4d18946537f2f8453a8dc0bf9dfadfb32c007996f1bd",
+            "location": {
+                "coordinates": [
+                    -122.5,
+                    37.7
+                ],
+                "type": "Point"
+            },
+            "createdAt": "2020-01-27T22:52:30.212Z",
+            "updatedAt": "2020-01-27T22:52:30.212Z",
+            "__v": 0,
+            "transaction": {
+                "_id": "5e2f69ae33e7100016293c37",
+                "stellarErrors": [],
+                "signers": [],
+                "signers_delete": [],
+                "signers_add": [],
+                "relatedTransactions": [],
+                "txId": "00f72b22b5d66506ef2f4d18946537f2f8453a8dc0bf9dfadfb32c007996f1bd",
+                "envelopeXdr": "AAAAAIL98xHyw1BywD1lNuBXB5T6giDLCOWpwXiD6p6C3OobAAAAZAANr4gAAAAkAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAMfF4FdcaEl7H4+9IMo18zMZVhfQHDr5KogobQE97GFMAAAABRVZUWAAAAABxkkVKG2jHhRxz3wTZYvLdI3YT3/WWAXbNmnLRD7caBQAAAAABMS0AAAAAAAAAAAEjic7eAAAAQIf3Pb5+4tVi+V0FnZ4ttAtsLkKNAiZs4hiLzyjPI2Xq9Th1mz3QwvN9qIbUDaUyfxKFBzMZTDwQyAbSJhWyowc=",
+                "fee": 0.001,
+                "dateInit": "2020-01-27T22:52:30.225Z",
+                "status": "SUBMITTED",
+                "__v": 0,
+                "dateComplete": "2020-01-27T22:52:34.015Z"
+            },
+            "id": "5e2f69ae33e7100016293c36",
+            "_links": {
+                "self": {
+                    "href": "/v1/transaction/00f72b22b5d66506ef2f4d18946537f2f8453a8dc0bf9dfadfb32c007996f1bd"
+                },
+                "products": [
+                    {
+                        "href": "/v1/products/00000023",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/00000023.png"
+                        }
+                    }
+                ],
+                "walletImage": {
+                    "href": "https://cdn.eventx.network/products/Wearable.png"
+                },
+                "customerImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar2.png"
+                },
+                "cashierImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar.png"
+                }
+            }
+        },
+        {
+            "_id": "5e2f387333e7100016293bf0",
+            "assetCode": "EVTX",
+            "items": [
+                {
+                    "sku": "0000001",
+                    "name": "Coca Cola",
+                    "price": 1.5,
+                    "taxPct": 20
+                },
+                {
+                    "sku": "0000002",
+                    "name": "Beer",
+                    "price": 2,
+                    "taxPct": 20
+                },
+                {
+                    "sku": "0000003",
+                    "name": "Red whine",
+                    "price": 3,
+                    "taxPct": 20
+                },
+                {
+                    "sku": "0000004",
+                    "name": "Vodka",
+                    "price": 6,
+                    "taxPct": 20
+                }
+            ],
+            "sourceWallet": "GCBP34YR6LBVA4WAHVSTNYCXA6KPVARAZMEOLKOBPCB6VHUC3TVBX6P5",
+            "destinationWallet": "GAY7C6AV24NBEXWH4PXUQMUNPTGMMVMF6QDQ5PSKUIFBWQCPPMMFHC6G",
+            "amountToken": 100,
+            "txId": "a8d1fee1912fd80e7d49b614789aca318dffba7042eb1329eb6d84fc81ef4355",
+            "location": {
+                "coordinates": [
+                    -122.5,
+                    37.7
+                ],
+                "type": "Point"
+            },
+            "createdAt": "2020-01-27T19:22:27.846Z",
+            "updatedAt": "2020-01-27T19:22:27.846Z",
+            "__v": 0,
+            "transaction": {
+                "_id": "5e2f387333e7100016293bf1",
+                "stellarErrors": [],
+                "signers": [],
+                "signers_delete": [],
+                "signers_add": [],
+                "relatedTransactions": [],
+                "txId": "a8d1fee1912fd80e7d49b614789aca318dffba7042eb1329eb6d84fc81ef4355",
+                "envelopeXdr": "AAAAAIL98xHyw1BywD1lNuBXB5T6giDLCOWpwXiD6p6C3OobAAAAZAANr4gAAAAjAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAMfF4FdcaEl7H4+9IMo18zMZVhfQHDr5KogobQE97GFMAAAABRVZUWAAAAABxkkVKG2jHhRxz3wTZYvLdI3YT3/WWAXbNmnLRD7caBQAAAAA7msoAAAAAAAAAAAEjic7eAAAAQGQuemMeDrlxVrDo/uXs+LyfGc/03afu8SOSgEnJk+qrN+1etlFsC+eAsRxH8f/VQrciz49djPPog6eXrKTlWgk=",
+                "fee": 0.001,
+                "dateInit": "2020-01-27T19:22:27.858Z",
+                "status": "SUBMITTED",
+                "__v": 0,
+                "dateComplete": "2020-01-27T19:22:56.154Z"
+            },
+            "id": "5e2f387333e7100016293bf0",
+            "_links": {
+                "self": {
+                    "href": "/v1/transaction/a8d1fee1912fd80e7d49b614789aca318dffba7042eb1329eb6d84fc81ef4355"
+                },
+                "products": [
+                    {
+                        "href": "/v1/products/0000001",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/0000001.png"
+                        }
+                    },
+                    {
+                        "href": "/v1/products/0000002",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/0000002.png"
+                        }
+                    },
+                    {
+                        "href": "/v1/products/0000003",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/0000003.png"
+                        }
+                    },
+                    {
+                        "href": "/v1/products/0000004",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/0000004.png"
+                        }
+                    }
+                ],
+                "walletImage": {
+                    "href": "https://cdn.eventx.network/products/Wearable.png"
+                },
+                "customerImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar2.png"
+                },
+                "cashierImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar.png"
+                }
+            }
+        },
+        {
+            "_id": "5e2f37ab33e7100016293be0",
+            "items": [
+                {
+                    "name": "Desperados",
+                    "price": 1,
+                    "taxPct": 21,
+                    "sku": "00000025"
+                },
+                {
+                    "name": "Corona",
+                    "price": 2,
+                    "taxPct": 0,
+                    "sku": "00000026"
+                }
+            ],
+            "assetCode": "EVTX",
+            "sourceWallet": "GCBP34YR6LBVA4WAHVSTNYCXA6KPVARAZMEOLKOBPCB6VHUC3TVBX6P5",
+            "destinationWallet": "GAY7C6AV24NBEXWH4PXUQMUNPTGMMVMF6QDQ5PSKUIFBWQCPPMMFHC6G",
+            "amountToken": 3,
+            "txId": "58826593a78a6e7515ef04507eaa220edffeb8214db7a37183c17f97c855e1a8",
+            "location": {
+                "coordinates": [
+                    -122.5,
+                    37.7
+                ],
+                "type": "Point"
+            },
+            "createdAt": "2020-01-27T19:19:07.626Z",
+            "updatedAt": "2020-01-27T19:19:07.626Z",
+            "__v": 0,
+            "transaction": {
+                "_id": "5e2f37ab33e7100016293be1",
+                "stellarErrors": [],
+                "signers": [],
+                "signers_delete": [],
+                "signers_add": [],
+                "relatedTransactions": [],
+                "txId": "58826593a78a6e7515ef04507eaa220edffeb8214db7a37183c17f97c855e1a8",
+                "envelopeXdr": "AAAAAIL98xHyw1BywD1lNuBXB5T6giDLCOWpwXiD6p6C3OobAAAAZAANr4gAAAAiAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAMfF4FdcaEl7H4+9IMo18zMZVhfQHDr5KogobQE97GFMAAAABRVZUWAAAAABxkkVKG2jHhRxz3wTZYvLdI3YT3/WWAXbNmnLRD7caBQAAAAABycOAAAAAAAAAAAEjic7eAAAAQCSxBQrsYgpljY5+B8SbsHkr8/l9iUoidz3T6Rz6ZXibDBIkOhpZhFCmbZmpvmJsNMcegnnFbW8ZVVKfGfs4xws=",
+                "fee": 0.001,
+                "dateInit": "2020-01-27T19:19:07.640Z",
+                "status": "SUBMITTED",
+                "__v": 0,
+                "dateComplete": "2020-01-27T19:19:16.017Z"
+            },
+            "id": "5e2f37ab33e7100016293be0",
+            "_links": {
+                "self": {
+                    "href": "/v1/transaction/58826593a78a6e7515ef04507eaa220edffeb8214db7a37183c17f97c855e1a8"
+                },
+                "products": [
+                    {
+                        "href": "/v1/products/00000025",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/00000025.png"
+                        }
+                    },
+                    {
+                        "href": "/v1/products/00000026",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/00000026.png"
+                        }
+                    }
+                ],
+                "walletImage": {
+                    "href": "https://cdn.eventx.network/products/Wearable.png"
+                },
+                "customerImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar2.png"
+                },
+                "cashierImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar.png"
+                }
+            }
+        },
+        {
+            "_id": "5e2d6f7833e7100016293bce",
+            "items": [
+                {
+                    "name": "Desperados",
+                    "price": 1,
+                    "taxPct": 21,
+                    "sku": "00000025"
+                }
+            ],
+            "assetCode": "EVTX",
+            "sourceWallet": "GCBP34YR6LBVA4WAHVSTNYCXA6KPVARAZMEOLKOBPCB6VHUC3TVBX6P5",
+            "destinationWallet": "GAY7C6AV24NBEXWH4PXUQMUNPTGMMVMF6QDQ5PSKUIFBWQCPPMMFHC6G",
+            "amountToken": 2,
+            "txId": "8885200621ef2f56b919de959628a2edd7d67e40897b98f829acf16a92881d28",
+            "location": {
+                "coordinates": [
+                    -122.5,
+                    37.7
+                ],
+                "type": "Point"
+            },
+            "createdAt": "2020-01-26T10:52:40.813Z",
+            "updatedAt": "2020-01-26T10:52:40.813Z",
+            "__v": 0,
+            "transaction": {
+                "_id": "5e2d6f7833e7100016293bcf",
+                "stellarErrors": [],
+                "signers": [],
+                "signers_delete": [],
+                "signers_add": [],
+                "relatedTransactions": [],
+                "txId": "8885200621ef2f56b919de959628a2edd7d67e40897b98f829acf16a92881d28",
+                "envelopeXdr": "AAAAAIL98xHyw1BywD1lNuBXB5T6giDLCOWpwXiD6p6C3OobAAAAZAANr4gAAAAhAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAMfF4FdcaEl7H4+9IMo18zMZVhfQHDr5KogobQE97GFMAAAABRVZUWAAAAABxkkVKG2jHhRxz3wTZYvLdI3YT3/WWAXbNmnLRD7caBQAAAAABMS0AAAAAAAAAAAEjic7eAAAAQEHmbkp0qlwGVkIEMAEVttQoV1l5UYSrOi7p6uFooy3OV5y+HOuF/K8Ue4b+9PjsvBE7YUfXGnqh02o8yRDYywM=",
+                "fee": 0.001,
+                "dateInit": "2020-01-26T10:52:40.824Z",
+                "status": "SUBMITTED",
+                "__v": 0,
+                "dateComplete": "2020-01-26T10:52:47.017Z"
+            },
+            "id": "5e2d6f7833e7100016293bce",
+            "_links": {
+                "self": {
+                    "href": "/v1/transaction/8885200621ef2f56b919de959628a2edd7d67e40897b98f829acf16a92881d28"
+                },
+                "products": [
+                    {
+                        "href": "/v1/products/00000025",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/00000025.png"
+                        }
+                    }
+                ],
+                "walletImage": {
+                    "href": "https://cdn.eventx.network/products/Wearable.png"
+                },
+                "customerImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar2.png"
+                },
+                "cashierImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar.png"
+                }
+            }
+        },
+        {
+            "_id": "5e2d608233e7100016293bc8",
+            "items": [
+                {
+                    "name": "Heineken",
+                    "price": 1,
+                    "taxPct": 21,
+                    "sku": "00000023"
+                },
+                {
+                    "name": "Corona",
+                    "price": 2,
+                    "taxPct": 0,
+                    "sku": "00000026"
+                },
+                {
+                    "name": "Heineken 0.0",
+                    "price": 2,
+                    "taxPct": 0,
+                    "sku": "20000103"
+                }
+            ],
+            "assetCode": "EVTX",
+            "sourceWallet": "GCBP34YR6LBVA4WAHVSTNYCXA6KPVARAZMEOLKOBPCB6VHUC3TVBX6P5",
+            "destinationWallet": "GAY7C6AV24NBEXWH4PXUQMUNPTGMMVMF6QDQ5PSKUIFBWQCPPMMFHC6G",
+            "amountToken": 5,
+            "txId": "7945d70fe87a6d86e2497788d5d21a42c7037cd8726b93688ba805508a323ff3",
+            "location": {
+                "coordinates": [
+                    -122.5,
+                    37.7
+                ],
+                "type": "Point"
+            },
+            "createdAt": "2020-01-26T09:48:50.286Z",
+            "updatedAt": "2020-01-26T09:48:50.286Z",
+            "__v": 0,
+            "transaction": {
+                "_id": "5e2d608233e7100016293bc9",
+                "stellarErrors": [],
+                "signers": [],
+                "signers_delete": [],
+                "signers_add": [],
+                "relatedTransactions": [],
+                "txId": "7945d70fe87a6d86e2497788d5d21a42c7037cd8726b93688ba805508a323ff3",
+                "envelopeXdr": "AAAAAIL98xHyw1BywD1lNuBXB5T6giDLCOWpwXiD6p6C3OobAAAAZAANr4gAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAMfF4FdcaEl7H4+9IMo18zMZVhfQHDr5KogobQE97GFMAAAABRVZUWAAAAABxkkVKG2jHhRxz3wTZYvLdI3YT3/WWAXbNmnLRD7caBQAAAAAC+vCAAAAAAAAAAAEjic7eAAAAQOID84GJG9CJTqWyjyyBpVUyqIanRzm/JmA9uNrzQaSW+tsfzaOMmKRlXudaHlp4kcoMjZvrmMruXabrl4jsfwo=",
+                "fee": 0.001,
+                "dateInit": "2020-01-26T09:48:50.300Z",
+                "status": "SUBMITTED",
+                "__v": 0,
+                "dateComplete": "2020-01-26T09:48:55.604Z"
+            },
+            "id": "5e2d608233e7100016293bc8",
+            "_links": {
+                "self": {
+                    "href": "/v1/transaction/7945d70fe87a6d86e2497788d5d21a42c7037cd8726b93688ba805508a323ff3"
+                },
+                "products": [
+                    {
+                        "href": "/v1/products/00000023",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/00000023.png"
+                        }
+                    },
+                    {
+                        "href": "/v1/products/00000026",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/00000026.png"
+                        }
+                    },
+                    {
+                        "href": "/v1/products/20000103",
+                        "image": {
+                            "href": "https://cdn.eventx.network/products/20000103.png"
+                        }
+                    }
+                ],
+                "walletImage": {
+                    "href": "https://cdn.eventx.network/products/Wearable.png"
+                },
+                "customerImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar2.png"
+                },
+                "cashierImage": {
+                    "href": "https://cdn.eventx.network/accounts/dummy_avatar.png"
+                }
+            }
+        }
+    ],
+    "total": 94,
+    "limit": 10,
+    "page": 1,
+    "pages": 10
+}
